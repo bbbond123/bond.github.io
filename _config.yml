@@ -1,6 +1,12 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+auto: true
+
+markdown: kramdown
+highlighter: rouge
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: bond
+url: http://bond.github.io
+feed: /atom.xml  
+author_info: <a href="http://bond.github.io/">bond</a>
